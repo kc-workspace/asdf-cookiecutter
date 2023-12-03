@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-cookiecutter/compare/v1.0.0...v1.0.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([db1b4ea](https://github.com/kc-workspace/asdf-cookiecutter/commit/db1b4ea279b9649182d788a524c12cb8d1b3ccec))
+
 ## 1.0.0 (2023-11-06)
 
 
